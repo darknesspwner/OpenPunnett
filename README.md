@@ -25,7 +25,7 @@ git clone https://github.com/ShadowDev7/OpenPunnett.git
 cd OpenPunnett 
 ```
 
-Or download the .zip I have no idea
+Or download the .zip I guess
 
 ## Usage (for CLI)
 
