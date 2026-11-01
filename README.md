@@ -2,8 +2,6 @@
 
 A simple CLI tool for calculating genotype and phenotype percentages using a Punnett square.
 
-Website in the future with more features too (maybe)
-
 ## Features
 
 - Calculates genotype percentages
